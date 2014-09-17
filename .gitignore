@@ -1,0 +1,12 @@
+*.keystore
+*.sw*
+node_modules/
+.DS_Store
+*.DS_Store
+*.sublime-project
+*.sublime-workspace
+.idea/*
+*.iml
+npm-debug.log
+sb-admin-2/
+sb-admin-2.zip
